@@ -3,7 +3,7 @@
 
 ### Berikut Contoh Bentuk Flowchart
 ![Gambar](Foto/Flowchart.png)
-Dengan Memasukan 3 Angka Program akan membandingkan di antara 3 bilangan tersebut lalu memberikan hasil di antara ke 3 bilangan
+#### Dengan Memasukan 3 Angka Program akan membandingkan di antara 3 bilangan tersebut lalu memberikan hasil di antara ke 3 bilangan
 ### Berikut Contoh Code Program
 ![Gambar](Foto/ss1.png)
 ### Berikut Contoh Ketika Angka Pertama yang Terbesar
