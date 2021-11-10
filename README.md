@@ -8,7 +8,7 @@ Dengan Memasukan 3 Angka Program akan membandingkan di antara 3 bilangan tersebu
 ![Gambar](Foto/ss1.png)
 ### Berikut Contoh Ketika Angka Pertama yang Terbesar
 ![Gambar](Foto/ss2.png)
-### Berikut Contoh Ketika Angka  yang Terbesar
+### Berikut Contoh Ketika Angka Kedua yang Terbesar
 ![Gambar](Foto/ss3.png)
-### Berikut Contoh Ketika Angka  yang Terbesar
+### Berikut Contoh Ketika Angka Ketiga yang Terbesar
 ![Gambar](Foto/ss4.png)
